@@ -1,0 +1,80 @@
+.side{
+    background-color:black;
+    color: white;
+    margin-right: 1280px;
+   
+    
+    padding:10px 18px,18px;
+    
+}
+
+#hme{
+    background-color: #333;
+}
+
+.mna{
+    padding: -500 -200;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(25, 24, 24);
+
+}
+.sho{
+   
+    display: flex;
+    justify-content: space-around;
+}
+.sho1{
+    padding:20px;
+    background-color: #333;
+}
+.sho2{
+   padding: 20px;
+    background-color: #333;
+}
+.sho3{
+    padding: 20px;
+    background-color: #333;
+}
+.sho4{
+    padding: 20px;
+    background-color: #333;
+}
+.sho5{
+    padding: 20px;
+    background-color: #333;
+}
+.sho6{
+    padding: 20px;
+    background-color: #333;
+}
+
+.gdmrpto{
+    display: flex;
+    flex-direction: row;
+}
+
+.gdmrpto div{
+    display: flex;
+    flex-direction: row;
+}
+
+.gdmr1{
+    position: relative;
+    left:230px;
+    bottom: 108vh;
+}
+
+.side{
+    height: 100vh;
+}
+
+body{
+    background-color: #333;
+}
+
+p,div{
+    color: white;
+}
